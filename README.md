@@ -25,11 +25,4 @@ Uses Docker for deployment and integrates with LINE Messaging API (no frontend i
 - 💼 LinkedIn: www.linkedin.com/in/wongsathorn-wanwong-049516361
 - 🔗 GitHub: [github.com/FrameWW](https://github.com/FrameWW)
 
----
 
-## ⚡ Fun fact
-Always curious — whether it's about neural networks or how lobsters are doing in the tank 🦞
-
----
-
-> *"Learn by building, grow by sharing."*
