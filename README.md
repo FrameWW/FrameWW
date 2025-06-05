@@ -5,11 +5,13 @@ I'm an **AI Trainer** and **Python Developer** passionate about building useful 
 ---
 
 ### 🚀 Projects I'm proud of
-- 🦞 [Lobster Farm Management System](https://github.com/yourusername/lobster-farm)  
-  A monitoring and management system for lobster farming with real-time updates via LINE chatbot. Built with FastAPI and Docker.
+- 🦞 [Lobster Farm Management System](https://github.com/FrameWW/SW_IOT_Backend)  
+  A backend API service for managing and monitoring data in a smart lobster farm.
+Built with FastAPI and Docker — handles sensor data ingestion and provides structured endpoints for external systems.
 
 - 🌊 [LINE WQI Testkit](https://github.com/yourusername/wqi-line-bot)  
-  A LINE chatbot that receives water test kit results and interprets water quality indexes instantly. Uses webhook + custom logic.
+  A FastAPI-based backend that receives water test kit results via LINE webhook and stores them for further analysis.
+Uses Docker for deployment and integrates with LINE Messaging API (no frontend included).
 
 ---
 
