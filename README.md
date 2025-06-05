@@ -20,7 +20,7 @@ I'm an **AI Trainer** and **Python Developer** passionate about building useful 
 
 ### 📫 Contact
 - 📧 Email: frame.wongsathorn@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/wongsathorn-wanwong-049516361]
+- 💼 LinkedIn: (www.linkedin.com/in/wongsathorn-wanwong-049516361)
 - 🔗 GitHub: [github.com/FrameWW](https://github.com/FrameWW)
 
 ---
