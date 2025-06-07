@@ -6,6 +6,14 @@ I enjoy building backend services, working with APIs, and solving practical prob
 
 ---
 
+### ✨ Highlights
+- 🎓 Bachelor's degree in Applied AI & Smart Technology from Burapha University
+- 🐍 Strong skills in Python, FastAPI, Docker, and backend development
+- 🧠 Hands-on experience in integrating AI models (YOLOv8, Computer Vision) into real-world systems
+- 🤖 Built AI-powered LINE chatbot and real-time IoT backend system during internship
+
+---
+
 ### 💼 Internship Experience  
 **Developer Intern** — Eastern Software Park, Chonburi  
 **(May–July 2025)**
@@ -47,9 +55,14 @@ I enjoy building backend services, working with APIs, and solving practical prob
 
 ---
 
+### 🧠 Keywords
+`Python Developer` `FastAPI` `Docker` `AI Integration` `LINE Bot` `YOLOv8` `Backend Developer` `Computer Vision` `Internship Projects` `Applied AI`
+
+---
+
 ### 📫 Contact
 - 📧 Email: frame.wongsathorn@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/wongsathorn-wanwong-049516361
+- 💼 LinkedIn: [wongsathorn-wanwong](https://www.linkedin.com/in/wongsathorn-wanwong-049516361/)
 - 🔗 GitHub: [github.com/FrameWW](https://github.com/FrameWW)
 
 
